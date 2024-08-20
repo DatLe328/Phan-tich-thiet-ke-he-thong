@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Trang-1" id="UUA-LW0ybCyTI4EZqxCR">
-    <mxGraphModel>
+    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EfGkLtAQaOSHbSjD28bd-1" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EfGkLtAQaOSHbSjD28bd-2" value="Hệ thống&lt;div&gt;quản lý&lt;/div&gt;&lt;div&gt;siêu thị&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="EfGkLtAQaOSHbSjD28bd-1">
+          <mxGeometry y="20" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EfGkLtAQaOSHbSjD28bd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EfGkLtAQaOSHbSjD28bd-3" target="EfGkLtAQaOSHbSjD28bd-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfGkLtAQaOSHbSjD28bd-6" value="Thông tin khách hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EfGkLtAQaOSHbSjD28bd-4">
+          <mxGeometry x="0.127" y="2" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EfGkLtAQaOSHbSjD28bd-3" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
