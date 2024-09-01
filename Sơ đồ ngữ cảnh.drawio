@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Trang-1" id="UUA-LW0ybCyTI4EZqxCR">
-    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,7 +235,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4HTkkbdZ0VmW0VIp5wF-40" value="Loại hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r4HTkkbdZ0VmW0VIp5wF-35" vertex="1" connectable="0">
+        <mxCell id="r4HTkkbdZ0VmW0VIp5wF-40" value="Kiểm tra hàng hóa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r4HTkkbdZ0VmW0VIp5wF-35" vertex="1" connectable="0">
           <mxGeometry x="0.066" y="-2" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
